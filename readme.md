@@ -1,4 +1,10 @@
-<h3 align="center">Hello, I There! Im Muhammet Bulut, I have been dealing with software since 2019. I tried to improve myself with many different technologies.</h3>
+<h3 align="center">tr-TR 🇹🇷
+
+Ben Muhammet Bulut, yazılıma fena bir ilgisi olan gencim. İlgimi çeken teknolojik trendleri ve en son gelişmeleri öğrenmeye çalışıyorum. Aynı zamanda, takım çalışmasına ve liderlik konularına da ilgi duyuyorum. Zamanımı kitap okuyarak ve gitar çalarak da keyifle geçiriyorum. Bu etkinlikler hayatıma renk katıyor ve beni daha da motive ediyor.</h3>
+
+<h3 align="center">en-EN 🇬🇧
+
+I am Muhammet Bulut, a young person interested in software. I try to learn about technological trends and latest developments that interest me. I am also interested in teamwork and leadership. I also enjoy spending time reading books and playing the guitar. These events add color to my life and motivate me even more.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
