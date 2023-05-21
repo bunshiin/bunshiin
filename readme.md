@@ -10,7 +10,7 @@ I am Muhammet Bulut, a young person interested in software. I try to learn about
 <p align="left">
 <a href="https://instagram.com/banabulutderlerss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banabulutderlerss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC7EtSr3pNE-VRUcStYXjRUg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammet bulut" height="30" width="40" /></a>
-<a href="https://discord.gg/bunshìn#3131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bunshìn#3131" height="30" width="40" /></a>
+<a href="https://discord.gg/bunshìn#3131" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="bunshìn#3131" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
