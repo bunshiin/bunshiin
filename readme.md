@@ -1,5 +1,5 @@
 ```js
-class Shuinore {
+class bunshiin {
   constructor(...options) {
     this.height = "1.81"
     this.weight = "90"
