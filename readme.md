@@ -1,48 +1,4 @@
 
-class bunshiin {
-  constructor(...options) {
-    this.height = "1.81"
-    this.weight = "90"
-    this.age = "17"
-    this.type = "human"
-    this.job = "student"
-    this.sex = "male"
-  }
-}
-
-class CreateMan extends bunshiin {
-  constructor(...options) {
-    super(options);
-  }
-  
-  private _eating() {
-    void "eating 🥩 🍷"
-  }
-  
-  private _coding() {
-    void "coding... ❤️"
-  }
-  
-   private leraing() {
-    void "leraing... 📖"
-  }
-  
-  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
-  
-  async createDay() {
-    this._eating();
-    this._coding();
-    await this._sleep(25200000);
-    
-    this.createDay();
-  }
-}
-
-let bunshiin = new CreateMan()
-bunshiin.createDay();
-
-
-  
 
 <br/>  
 
@@ -91,21 +47,7 @@ bunshiin.createDay();
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
   
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
 <a href="https://instagram.com/https://www.instagram.com/banabulutderlerss/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -133,5 +75,3 @@ bunshiin.createDay();
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
