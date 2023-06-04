@@ -1,4 +1,4 @@
-```js
+
 class bunshiin {
   constructor(...options) {
     this.height = "1.81"
